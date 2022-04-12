@@ -111,12 +111,25 @@ cv2.destroyAllWindows()
 ![d](./NewPicture.jpg)
 
 
+
+
+
+
+
 ### ii) Display the video
 ![f](./Screenshot%20(290).png)
 
 
+
+
+
+
 ### iii) Display the video by resizing the window
 ![c](./Screenshot%20(291).png)
+
+
+
+
 
 
 
